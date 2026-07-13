@@ -68,4 +68,4 @@ README.md
 
 **Kirthika R S**
 Bachelor of Engineering (Computer Science & Engineering)
-East West Institute of Technology**
+East West Institute of Technology
